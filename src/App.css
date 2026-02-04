@@ -1,0 +1,95 @@
+#main-Container{
+    /* display: flex; */
+    height: 700px;
+    width: 800px;
+    margin:50px 0 0 200px;
+    background-color:#ffffff;  
+    border-radius: 30px;
+    box-shadow: 10px 15px 10px gray;
+    background-color: rgb(172, 209, 236);
+
+}
+
+#app-name{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(252, 143, 1);
+}
+
+#first-box{
+   
+    margin: 15px 20px 0 180px;
+   
+
+}
+
+input{
+    margin-left: 50px;
+    margin-top: 10px;
+    height: 20px;
+    width: 300px;
+    margin-right: 20px;
+    border-radius: 30px;
+    font-size: 20px;
+    padding: 15px;
+    background-color: rgb(208, 233, 231);
+}
+
+button{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: rgb(213, 184, 209);    
+    font-size: 20px;
+  
+}
+
+.errorPage{
+    
+    padding-left: 70px;
+    font-size: 25px;
+    color: red;
+    margin-right: 120px;
+        
+   
+}
+
+
+
+
+#imagebox{
+    display: flex;
+    height: 200px;
+    width: 200px;
+    background-repeat: no-repeat;
+    margin-right: 50px;   
+   
+}
+
+#Second-box{
+    text-align: center;
+    /* background-color: blueviolet; */
+}
+
+
+#clearImage{
+   
+    height: 250px;
+    width: 300px;
+    background-repeat: no-repeat;
+    
+     
+}
+
+/* .fa-wind{
+    color: rgb(254, 4, 183);
+    margin-right: 10px;
+} */
+
+
+
+
+
+
+
+
