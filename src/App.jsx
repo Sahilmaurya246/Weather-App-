@@ -8,7 +8,6 @@ function Weather(){
     const [data, setData] = useState()
     const[error,setError]=useState("");
     const Api_Key="fd5e18103ffcccb66873b382441f8ca8"
-    const API="https://api.openweathermap.org/data/3.0/onecall?lat={lat}&lon={lon}&exclude={part}&appid={Api_Key}"
     const handleInput= (e)=>{
         setSearch(e.target.value);
         console.log(e.target.value);
